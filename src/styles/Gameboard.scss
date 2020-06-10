@@ -1,4 +1,8 @@
 #Gameboard {
+  display: flex;
+  justify-content: center;
+  position: relative;
   background-color: black;
   height: calc(100% - 160px);
+  overflow: hidden;
 }
