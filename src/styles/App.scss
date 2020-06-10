@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#game {
+  color: white;
+  width: 40%;
+  min-width: 400px;
+}
+
+#App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(234, 229, 240);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
